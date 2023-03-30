@@ -1,7 +1,7 @@
 1) Find all the information about each products
 
  db.zen.find().pretty()
- {
+    {
         "id": "1",
         "product_name": "Intelligent Fresh Chips",
         "product_price": 655.00,
